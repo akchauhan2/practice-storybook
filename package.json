@@ -2,7 +2,7 @@
   "name": "storybook-practice",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://dev.akchauhan2.com/story",
+  "homepage": "/story",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
